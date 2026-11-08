@@ -1,0 +1,758 @@
+[
+  {
+    "id": "66889139",
+    "raridade": "Secret Rara",
+    "nome": "Gaia the Dragon Champion",
+    "tipo": "fusão"
+  },
+  {
+    "id": "39111158",
+    "raridade": "Secret Rara",
+    "nome": "Tri-Horned Dragon",
+    "tipo": "monstro"
+  },
+  {
+    "id": "89631139",
+    "raridade": "Ultra Rara",
+    "nome": "Blue-Eyes White Dragon",
+    "tipo": "monstro"
+  },
+  {
+    "id": "36996508",
+    "raridade": "Ultra Rara",
+    "nome": "Dark Magician",
+    "tipo": "monstro"
+  },
+  {
+    "id": "33396948",
+    "raridade": "Ultra Rara",
+    "nome": "Exodia the Forbidden One",
+    "tipo": "monstro"
+  },
+  {
+    "id": "6368038",
+    "raridade": "Ultra Rara",
+    "nome": "Gaia The Fierce Knight",
+    "tipo": "monstro"
+  },
+  {
+    "id": "7902349",
+    "raridade": "Ultra Rara",
+    "nome": "Left Arm of the Forbidden One",
+    "tipo": "monstro"
+  },
+  {
+    "id": "44519536",
+    "raridade": "Ultra Rara",
+    "nome": "Left Leg of the Forbidden One",
+    "tipo": "monstro"
+  },
+  {
+    "id": "83764718",
+    "raridade": "Ultra Rara",
+    "nome": "Monster Reborn",
+    "tipo": "spell"
+  },
+  {
+    "id": "74677422",
+    "raridade": "Ultra Rara",
+    "nome": "Red-Eyes Black Dragon",
+    "tipo": "monstro"
+  },
+  {
+    "id": "70903634",
+    "raridade": "Ultra Rara",
+    "nome": "Right Arm of the Forbidden One",
+    "tipo": "monstro"
+  },
+  {
+    "id": "8124921",
+    "raridade": "Ultra Rara",
+    "nome": "Right Leg of the Forbidden One",
+    "tipo": "monstro"
+  },
+  {
+    "id": "91152256",
+    "raridade": "Super Rara",
+    "nome": "Celtic Guardian",
+    "tipo": "monstro"
+  },
+  {
+    "id": "28279543",
+    "raridade": "Super Rara",
+    "nome": "Curse of Dragon",
+    "tipo": "monstro"
+  },
+  {
+    "id": "53129443",
+    "raridade": "Super Rara",
+    "nome": "Dark Hole",
+    "tipo": "spell"
+  },
+  {
+    "id": "45231177",
+    "raridade": "Super Rara",
+    "nome": "Flame Swordsman",
+    "tipo": "fusão"
+  },
+  {
+    "id": "54652250",
+    "raridade": "Super Rara",
+    "nome": "Man-Eater Bug",
+    "tipo": "monstro"
+  },
+  {
+    "id": "15025844",
+    "raridade": "Super Rara",
+    "nome": "Mystical Elf",
+    "tipo": "monstro"
+  },
+  {
+    "id": "24094653",
+    "raridade": "Super Rara",
+    "nome": "Polymerization",
+    "tipo": "spell"
+  },
+  {
+    "id": "12580477",
+    "raridade": "Super Rara",
+    "nome": "Raigeki",
+    "tipo": "spell"
+  },
+  {
+    "id": "72302403",
+    "raridade": "Super Rara",
+    "nome": "Swords of Revealing Light",
+    "tipo": "spell"
+  },
+  {
+    "id": "4206964",
+    "raridade": "Super Rara",
+    "nome": "Trap Hole",
+    "tipo": "trap"
+  },
+  {
+    "id": "85639257",
+    "raridade": "Rara",
+    "nome": "Aqua Madoor",
+    "tipo": "monstro"
+  },
+  {
+    "id": "9076207",
+    "raridade": "Rara",
+    "nome": "Armed Ninja",
+    "tipo": "monstro"
+  },
+  {
+    "id": "37421579",
+    "raridade": "Rara",
+    "nome": "Charubin the Fire Knight",
+    "tipo": "fusão"
+  },
+  {
+    "id": "17881964",
+    "raridade": "Rara",
+    "nome": "Darkfire Dragon",
+    "tipo": "fusão"
+  },
+  {
+    "id": "50045299",
+    "raridade": "Rara",
+    "nome": "Dragon Capture Jar",
+    "tipo": "trap"
+  },
+  {
+    "id": "70681994",
+    "raridade": "Rara",
+    "nome": "Dragoness the Wicked Knight",
+    "tipo": "fusão"
+  },
+  {
+    "id": "73134081",
+    "raridade": "Rara",
+    "nome": "Final Flame",
+    "tipo": "spell"
+  },
+  {
+    "id": "66788016",
+    "raridade": "Rara",
+    "nome": "Fissure",
+    "tipo": "spell"
+  },
+  {
+    "id": "58528964",
+    "raridade": "Rara",
+    "nome": "Flame Ghost",
+    "tipo": "monstro"
+  },
+  {
+    "id": "95952802",
+    "raridade": "Rara",
+    "nome": "Flower Wolf",
+    "tipo": "fusão"
+  },
+  {
+    "id": "1641882",
+    "raridade": "Rara",
+    "nome": "Fusionist",
+    "tipo": "monstro"
+  },
+  {
+    "id": "13039848",
+    "raridade": "Rara",
+    "nome": "Giant Soldier of Stone",
+    "tipo": "monstro"
+  },
+  {
+    "id": "11868825",
+    "raridade": "Rara",
+    "nome": "Goblin's Secret Remedy",
+    "tipo": "spell"
+  },
+  {
+    "id": "82542267",
+    "raridade": "Rara",
+    "nome": "Gravedigger Ghoul",
+    "tipo": "spell"
+  },
+  {
+    "id": "7089711",
+    "raridade": "Rara",
+    "nome": "Hane-Hane",
+    "tipo": "monstro"
+  },
+  {
+    "id": "54541900",
+    "raridade": "Rara",
+    "nome": "Karbonala Warrior",
+    "tipo": "fusão"
+  },
+  {
+    "id": "9293977",
+    "raridade": "Rara",
+    "nome": "Metal Dragon",
+    "tipo": "fusão"
+  },
+  {
+    "id": "55144522",
+    "raridade": "Rara",
+    "nome": "Pot of Greed",
+    "tipo": "spell"
+  },
+  {
+    "id": "33066139",
+    "raridade": "Rara",
+    "nome": "Reaper of the Cards",
+    "tipo": "monstro"
+  },
+  {
+    "id": "80770678",
+    "raridade": "Rara",
+    "nome": "Spirit of the Harp",
+    "tipo": "monstro"
+  },
+  {
+    "id": "63102017",
+    "raridade": "Rara",
+    "nome": "Stop Defense",
+    "tipo": "spell"
+  },
+  {
+    "id": "83887306",
+    "raridade": "Rara",
+    "nome": "Two-Pronged Attack",
+    "tipo": "trap"
+  },
+  {
+    "id": "53153481",
+    "raridade": "Comum",
+    "nome": "Armaill",
+    "tipo": "monstro"
+  },
+  {
+    "id": "17535588",
+    "raridade": "Comum",
+    "nome": "Armored Starfish",
+    "tipo": "monstro"
+  },
+  {
+    "id": "89091579",
+    "raridade": "Comum",
+    "nome": "Basic Insect",
+    "tipo": "monstro"
+  },
+  {
+    "id": "46009906",
+    "raridade": "Comum",
+    "nome": "Beast Fangs",
+    "tipo": "spell"
+  },
+  {
+    "id": "32452818",
+    "raridade": "Comum",
+    "nome": "Beaver Warrior",
+    "tipo": "monstro"
+  },
+  {
+    "id": "91595718",
+    "raridade": "Comum",
+    "nome": "Book of Secret Arts",
+    "tipo": "spell"
+  },
+  {
+    "id": "4614116",
+    "raridade": "Comum",
+    "nome": "Dark Energy",
+    "tipo": "spell"
+  },
+  {
+    "id": "9159938",
+    "raridade": "Comum",
+    "nome": "Dark Gray",
+    "tipo": "monstro"
+  },
+  {
+    "id": "53375573",
+    "raridade": "Comum",
+    "nome": "Dark King of the Abyss",
+    "tipo": "monstro"
+  },
+  {
+    "id": "43500484",
+    "raridade": "Comum",
+    "nome": "Darkworld Thorns",
+    "tipo": "monstro"
+  },
+  {
+    "id": "40826495",
+    "raridade": "Comum",
+    "nome": "Dissolverock",
+    "tipo": "monstro"
+  },
+  {
+    "id": "1435851",
+    "raridade": "Comum",
+    "nome": "Dragon Treasure",
+    "tipo": "spell"
+  },
+  {
+    "id": "16353197",
+    "raridade": "Comum",
+    "nome": "Drooling Lizard",
+    "tipo": "monstro"
+  },
+  {
+    "id": "37820550",
+    "raridade": "Comum",
+    "nome": "Electro-Whip",
+    "tipo": "spell"
+  },
+  {
+    "id": "75376965",
+    "raridade": "Comum",
+    "nome": "Enchanting Mermaid",
+    "tipo": "monstro"
+  },
+  {
+    "id": "2863439",
+    "raridade": "Comum",
+    "nome": "Fiend Reflection #2",
+    "tipo": "monstro"
+  },
+  {
+    "id": "53293545",
+    "raridade": "Comum",
+    "nome": "Firegrass",
+    "tipo": "monstro"
+  },
+  {
+    "id": "71407486",
+    "raridade": "Comum",
+    "nome": "Fireyarou",
+    "tipo": "monstro"
+  },
+  {
+    "id": "34460851",
+    "raridade": "Comum",
+    "nome": "Flame Manipulator",
+    "tipo": "monstro"
+  },
+  {
+    "id": "98252586",
+    "raridade": "Comum",
+    "nome": "Follow Wind",
+    "tipo": "spell"
+  },
+  {
+    "id": "87430998",
+    "raridade": "Comum",
+    "nome": "Forest",
+    "tipo": "spell"
+  },
+  {
+    "id": "98818516",
+    "raridade": "Comum",
+    "nome": "Frenzied Panda",
+    "tipo": "monstro"
+  },
+  {
+    "id": "22910685",
+    "raridade": "Comum",
+    "nome": "Green Phantom King",
+    "tipo": "monstro"
+  },
+  {
+    "id": "20060230",
+    "raridade": "Comum",
+    "nome": "Hard Armor",
+    "tipo": "monstro"
+  },
+  {
+    "id": "46130346",
+    "raridade": "Comum",
+    "nome": "Hinotama",
+    "tipo": "spell"
+  },
+  {
+    "id": "96851799",
+    "raridade": "Comum",
+    "nome": "Hinotama Soul",
+    "tipo": "monstro"
+  },
+  {
+    "id": "76184692",
+    "raridade": "Comum",
+    "nome": "Hitotsu-Me Giant",
+    "tipo": "monstro"
+  },
+  {
+    "id": "15401633",
+    "raridade": "Comum",
+    "nome": "Kagemusha of the Blue Flame",
+    "tipo": "monstro"
+  },
+  {
+    "id": "84686841",
+    "raridade": "Comum",
+    "nome": "King Fog",
+    "tipo": "monstro"
+  },
+  {
+    "id": "56283725",
+    "raridade": "Comum",
+    "nome": "Kumootoko",
+    "tipo": "monstro"
+  },
+  {
+    "id": "85705804",
+    "raridade": "Comum",
+    "nome": "Kurama",
+    "tipo": "monstro"
+  },
+  {
+    "id": "94675535",
+    "raridade": "Comum",
+    "nome": "Larvas",
+    "tipo": "monstro"
+  },
+  {
+    "id": "77007920",
+    "raridade": "Comum",
+    "nome": "Laser Cannon Armor",
+    "tipo": "spell"
+  },
+  {
+    "id": "61854111",
+    "raridade": "Comum",
+    "nome": "Legendary Sword",
+    "tipo": "spell"
+  },
+  {
+    "id": "55444629",
+    "raridade": "Comum",
+    "nome": "Lesser Dragon",
+    "tipo": "monstro"
+  },
+  {
+    "id": "56342351",
+    "raridade": "Comum",
+    "nome": "M-Warrior #1",
+    "tipo": "monstro"
+  },
+  {
+    "id": "92731455",
+    "raridade": "Comum",
+    "nome": "M-Warrior #2",
+    "tipo": "monstro"
+  },
+  {
+    "id": "25769732",
+    "raridade": "Comum",
+    "nome": "Machine Conversion Factory",
+    "tipo": "spell"
+  },
+  {
+    "id": "40374923",
+    "raridade": "Comum",
+    "nome": "Mammoth Graveyard",
+    "tipo": "monstro"
+  },
+  {
+    "id": "93553943",
+    "raridade": "Comum",
+    "nome": "Man Eater",
+    "tipo": "monstro"
+  },
+  {
+    "id": "44287299",
+    "raridade": "Comum",
+    "nome": "Masaki the Legendary Swordsman",
+    "tipo": "monstro"
+  },
+  {
+    "id": "76211194",
+    "raridade": "Comum",
+    "nome": "Meda Bat",
+    "tipo": "monstro"
+  },
+  {
+    "id": "33178416",
+    "raridade": "Comum",
+    "nome": "Misairuzame",
+    "tipo": "monstro"
+  },
+  {
+    "id": "36121917",
+    "raridade": "Comum",
+    "nome": "Monster Egg",
+    "tipo": "monstro"
+  },
+  {
+    "id": "50913601",
+    "raridade": "Comum",
+    "nome": "Mountain",
+    "tipo": "spell"
+  },
+  {
+    "id": "36607978",
+    "raridade": "Comum",
+    "nome": "Mystical Moon",
+    "tipo": "spell"
+  },
+  {
+    "id": "83464209",
+    "raridade": "Comum",
+    "nome": "Mystical Sheep #2",
+    "tipo": "monstro"
+  },
+  {
+    "id": "90963488",
+    "raridade": "Comum",
+    "nome": "Nemuriko",
+    "tipo": "monstro"
+  },
+  {
+    "id": "33064647",
+    "raridade": "Comum",
+    "nome": "One-Eyed Shield Dragon",
+    "tipo": "monstro"
+  },
+  {
+    "id": "38142739",
+    "raridade": "Comum",
+    "nome": "Petit Angel",
+    "tipo": "monstro"
+  },
+  {
+    "id": "75356564",
+    "raridade": "Comum",
+    "nome": "Petit Dragon",
+    "tipo": "monstro"
+  },
+  {
+    "id": "77027445",
+    "raridade": "Comum",
+    "nome": "Power of Kaishin",
+    "tipo": "spell"
+  },
+  {
+    "id": "51267887",
+    "raridade": "Comum",
+    "nome": "Raise Body Heat",
+    "tipo": "spell"
+  },
+  {
+    "id": "85309439",
+    "raridade": "Comum",
+    "nome": "Ray & Temperature",
+    "tipo": "monstro"
+  },
+  {
+    "id": "38199696",
+    "raridade": "Comum",
+    "nome": "Red Medicine",
+    "tipo": "spell"
+  },
+  {
+    "id": "51482758",
+    "raridade": "Comum",
+    "nome": "Remove Trap",
+    "tipo": "spell"
+  },
+  {
+    "id": "39004808",
+    "raridade": "Comum",
+    "nome": "Root Water",
+    "tipo": "monstro"
+  },
+  {
+    "id": "73051941",
+    "raridade": "Comum",
+    "nome": "Sand Stone",
+    "tipo": "monstro"
+  },
+  {
+    "id": "1557499",
+    "raridade": "Comum",
+    "nome": "Silver Bow and Arrow",
+    "tipo": "spell"
+  },
+  {
+    "id": "90357090",
+    "raridade": "Comum",
+    "nome": "Silver Fang",
+    "tipo": "monstro"
+  },
+  {
+    "id": "10202894",
+    "raridade": "Comum",
+    "nome": "Skull Red Bird",
+    "tipo": "monstro"
+  },
+  {
+    "id": "32274490",
+    "raridade": "Comum",
+    "nome": "Skull Servant",
+    "tipo": "monstro"
+  },
+  {
+    "id": "86318356",
+    "raridade": "Comum",
+    "nome": "Sogen",
+    "tipo": "spell"
+  },
+  {
+    "id": "76103675",
+    "raridade": "Comum",
+    "nome": "Sparks",
+    "tipo": "spell"
+  },
+  {
+    "id": "85326399",
+    "raridade": "Comum",
+    "nome": "Spike Seadra",
+    "tipo": "monstro"
+  },
+  {
+    "id": "29172562",
+    "raridade": "Comum",
+    "nome": "Steel Ogre Grotto #1",
+    "tipo": "monstro"
+  },
+  {
+    "id": "55291359",
+    "raridade": "Comum",
+    "nome": "Succubus Knight",
+    "tipo": "monstro"
+  },
+  {
+    "id": "63308047",
+    "raridade": "Comum",
+    "nome": "Terra the Terrible",
+    "tipo": "monstro"
+  },
+  {
+    "id": "32864",
+    "raridade": "Comum",
+    "nome": "The 13th Grave",
+    "tipo": "monstro"
+  },
+  {
+    "id": "18710707",
+    "raridade": "Comum",
+    "nome": "The Furious Sea King",
+    "tipo": "monstro"
+  },
+  {
+    "id": "77827521",
+    "raridade": "Comum",
+    "nome": "Trial of Nightmare",
+    "tipo": "monstro"
+  },
+  {
+    "id": "45042329",
+    "raridade": "Comum",
+    "nome": "Tripwire Beast",
+    "tipo": "monstro"
+  },
+  {
+    "id": "37313348",
+    "raridade": "Comum",
+    "nome": "Turtle Tiger",
+    "tipo": "monstro"
+  },
+  {
+    "id": "57305373",
+    "raridade": "Comum",
+    "nome": "Two-Mouth Darkruler",
+    "tipo": "monstro"
+  },
+  {
+    "id": "72842870",
+    "raridade": "Comum",
+    "nome": "Tyhone",
+    "tipo": "monstro"
+  },
+  {
+    "id": "22702055",
+    "raridade": "Comum",
+    "nome": "Umi",
+    "tipo": "spell"
+  },
+  {
+    "id": "1784619",
+    "raridade": "Comum",
+    "nome": "Uraby",
+    "tipo": "monstro"
+  },
+  {
+    "id": "39774685",
+    "raridade": "Comum",
+    "nome": "Vile Germs",
+    "tipo": "spell"
+  },
+  {
+    "id": "15052462",
+    "raridade": "Comum",
+    "nome": "Violet Crystal",
+    "tipo": "spell"
+  },
+  {
+    "id": "23424603",
+    "raridade": "Comum",
+    "nome": "Wasteland",
+    "tipo": "spell"
+  },
+  {
+    "id": "36304921",
+    "raridade": "Comum",
+    "nome": "Witty Phantom",
+    "tipo": "monstro"
+  },
+  {
+    "id": "59197169",
+    "raridade": "Comum",
+    "nome": "Yami",
+    "tipo": "spell"
+  }
+]
